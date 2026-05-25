@@ -42,7 +42,7 @@ A backend inventory reservation system built with Next.js, Prisma ORM, PostgreSQ
 
 Deployed Vercel URL :
 
-
+https://inventory-reservation-app-cplq.vercel.app
 
 ---
 
